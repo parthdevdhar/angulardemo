@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/admin/parth">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="149" lean-forward="false" selection-start-line="0" selection-start-column="149" selection-end-line="0" selection-end-column="149" />
+              <caret line="0" column="164" lean-forward="false" selection-start-line="0" selection-start-column="164" selection-end-line="0" selection-end-column="164" />
               <folding />
             </state>
           </provider>
@@ -33,6 +33,19 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511001647814</updated>
       <workItem from="1511001649494" duration="4896000" />
-      <workItem from="1511161143487" duration="1805000" />
+      <workItem from="1511161143487" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <created>1511007515868</created>
@@ -140,11 +153,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511173677743</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="text file again push">
+      <created>1511173791923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511173791923</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6701000" />
+    <option name="totallyTimeSpent" value="6866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,7 +236,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first upload" />
     <MESSAGE value="text file" />
-    <option name="LAST_COMMIT_MESSAGE" value="text file" />
+    <MESSAGE value="text file again push" />
+    <option name="LAST_COMMIT_MESSAGE" value="text file again push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -228,7 +249,7 @@
     <entry file="file://$PROJECT_DIR$/admin/parth">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="149" lean-forward="false" selection-start-line="0" selection-start-column="149" selection-end-line="0" selection-end-column="149" />
+          <caret line="0" column="164" lean-forward="false" selection-start-line="0" selection-start-column="164" selection-end-line="0" selection-end-column="164" />
           <folding />
         </state>
       </provider>
